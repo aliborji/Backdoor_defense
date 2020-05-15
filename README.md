@@ -1,12 +1,12 @@
-# Adversarial examples are useful too!
-
 
 # Backdoor_defense
 A simple defense against backdoor/trojan poisoning attacks
 
-Start with Backdoor.ipynb
-
+for the following paper:
+## Adversarial examples are useful too!
 Manuscript is avaiable in [Arxiv](https://arxiv.org/pdf/2005.06107.pdf).
+
+Start with Backdoor.ipynb
 
 
 ## License
